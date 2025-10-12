@@ -2,7 +2,7 @@
 1. Copy the `.toml` files to `$HOME/.config/alacritty/`
 2. Import the theme. (Example)
 ```toml
-import = ["/home/xelser/.config/alacritty/gruvbox-material-hard-dark.toml"]
+import = ["~/.config/alacritty/gruvbox-material-hard-dark.toml"]
 ```
 
 # Credits
