@@ -1,0 +1,9 @@
+# Gruvbox Material Alacritty Terminal
+1. Copy the `.toml` files to `$HOME/.config/alacritty/`
+2. Import the theme. (Example)
+```toml
+import = ["/home/xelser/.config/alacritty/gruvbox-material-hard-dark.toml"]
+```
+
+# Credits
+- https://github.com/sainnhe/gruvbox-material
